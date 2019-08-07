@@ -21,9 +21,9 @@ class Stack():
         return len(self.items)
 
 
-s = Stack()
-s.push(1)
-s.push(2)
-print(s.pop())
-print(s.peek())
-print(s.size())
+# s = Stack()
+# s.push(1)
+# s.push(2)
+# print(s.pop())
+# print(s.peek())
+# print(s.size())
